@@ -1,0 +1,13 @@
+.login-page {
+    background-image: url('../../img/image1.jpg');
+}
+
+.login-box {
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+#tabla1 {
+    border: 2px;
+}
